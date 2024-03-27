@@ -1,0 +1,38 @@
+.title {
+    color: #c7082b;
+    border: 1px;
+    font-family:Helvetica;
+
+}
+
+body{
+    background-color: #200901d6;
+    text-align: center;
+    box-sizing: border-box;
+
+    margin: auto;
+
+}
+
+h1{
+    color: #c84d0a;
+}
+
+h2{
+    color: #b32d2d;
+}
+
+h3{
+    color: #df4561;
+}
+
+h4{
+    color: #932136;
+}
+
+h5{
+    color: #d72727;
+}
+
+
+
